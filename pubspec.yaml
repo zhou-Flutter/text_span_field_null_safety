@@ -1,7 +1,7 @@
 name: text_span_field_null_safety
 description: Flutter custom text style input box enables you to display different styles of text in textfield, such as topic @ user effect
 version: 2.0.8
-homepage: https://github.com/JiangJuHong/FlutterTextSpanField
+homepage: https://github.com/zhou-Flutter/text_span_field_null_safety
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
