@@ -35,3 +35,8 @@ text_span_field_null_safety:
 # 自定义删除
 
 <img src="https://raw.githubusercontent.com/zhou-Flutter/text_span_field_null_safety/master/custom1.png" height="300em" style="max-width:100%;display: inline-block;"/>
+
+# 联系
+有问题随时联系我，我的项目测试没有问题
+wx:zxj824522911
+qq:824522911
