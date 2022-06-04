@@ -28,6 +28,6 @@ text_span_field_null_safety:
  textSpanBuilder.customDelete();
 ````
 
-# Demo截图
+# 自定义删除
 
 <img src="https://raw.githubusercontent.com/zhou-Flutter/text_span_field_null_safety/master/custom1.png" height="300em" style="max-width:100%;display: inline-block;"/>
